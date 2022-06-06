@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on React web application
-- 🌱 I’m currently learning to develop Data Visualizations tools using Python and Jupyter notebooks
 - ⚡ Fun fact: I teach surfing lessons in New York City beach
 
 
